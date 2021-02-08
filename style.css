@@ -1,0 +1,14 @@
+address {
+    text-align: right;
+}
+
+a, a:visited{
+    text-decoration: none;
+    font-weight: bold;
+    color: #1A3e4c;
+}
+
+a:hover{
+    color: #347b98;
+    text-decoration: underline;
+}
